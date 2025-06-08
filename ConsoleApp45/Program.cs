@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace GenericsExample
+namespace ConsoleApp45
 {
     // Задание 1
     class TransportCompany<T>
